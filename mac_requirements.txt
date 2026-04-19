@@ -1,0 +1,25 @@
+# macOS Accessibility & UI Automation
+pyobjc-framework-Cocoa
+pyobjc-framework-Quartz
+pyobjc-framework-ApplicationServices
+pyautogui
+pynput
+
+# Image Processing
+Pillow
+numpy
+
+# Environment & Configuration
+python-dotenv
+
+# MCP Framework
+mcp
+
+# Utilities
+mss
+psutil
+
+# Build Tools (Nuitka binary compilation)
+nuitka
+ordered-set
+zstandard
