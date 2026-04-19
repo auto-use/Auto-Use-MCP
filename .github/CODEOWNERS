@@ -1,0 +1,5 @@
+# CODEOWNERS for auto-use/Auto-Use
+# Every PR auto-requests review from the owners listed below.
+# Last matching pattern wins, so the catch-all line at the bottom covers everything.
+
+*   @FunctionFreak @auto-use
